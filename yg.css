@@ -1,0 +1,70 @@
+body {
+    background: url("foto.png");
+    background-size: cover;
+ }
+ p{
+    color: rgb(128, 132, 146);
+    font-size: 25px;
+}
+img{
+    width: 700px;
+    height: 500px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+h1{
+    color:rgb(128, 132, 146);
+    display: flex;
+    justify-content: center;
+
+}
+.one{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 20px;
+    position: absolute;
+    right: 0;
+    top: 190px;
+}
+.two{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 20px;
+    position: absolute;
+    right: 0;
+    bottom: -200px;
+}
+.three{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 20px;
+    position: absolute;
+    right: 0;
+    bottom: -880px;
+}
+.four{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin-right: 20px;
+    position: absolute;
+    right: 0;
+    bottom: -1650px;
+}
+a{
+    font-size: 30px;
+    color: white;
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (min-width: 769px) {
+}
+@media screen and (max-width: 480px) {
+}
+@media screen and (min-width: 481px) and (max-width: 768px) {
+}
+@media screen and (min-width: 769px) {
+}
